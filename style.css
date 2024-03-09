@@ -1,0 +1,13 @@
+.pelakhoka{
+    background-color: grey;
+    height: 250px;
+        color: black;
+    font-size: 25px;
+}
+
+.pelakhoka:hover{
+    background-color: pink;
+    height: 70px;
+        color: aqua;
+        transition: 3s;
+}
